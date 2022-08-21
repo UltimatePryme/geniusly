@@ -6,7 +6,7 @@ function Fax() {
     <section className='bg-cool-green w-full flex flex-col justify-center items-center'>
         <div className=' flex  py-10 items-center '>
             <h1 className=' font-poppins text-3xl'>Explore our planet</h1>
-            <img src={planetIcon} className="" />
+            <img src={planetIcon} alt="" className="" />
         </div>
         <div className=' container mx-auto sm:mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2  bg-white w-full h-auto p-10 rounded-2xl mb-6 hover:drop-shadow-xl hover:-translate-y-3 hover:ease-in-out'>
             <div className='px-12 mx-10'>
